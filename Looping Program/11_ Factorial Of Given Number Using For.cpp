@@ -16,7 +16,7 @@ int main()
         Fact = Fact * Num;
     }
 
-    cout <<" factorial Of "<< Num << " = " << Fact << endl;
+    cout<<"Factorial Of "<< Num << " = " << Fact << endl;
 
     getch();
     return 0;
