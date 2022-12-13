@@ -6,7 +6,7 @@ int main()
 {
     int Num = 0, Fact = 0, Temp = 0;
 
-    cout << endl <<" Enter A Number = ";
+    cout << endl <<" Enter A Number = >";
     cin>>Num;
 
     Temp = Num;
