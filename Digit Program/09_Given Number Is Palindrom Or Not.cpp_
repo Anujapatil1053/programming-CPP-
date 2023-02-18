@@ -6,8 +6,8 @@ int main()
 {
     int No = 0,Dig = 0,Rev = 0,Temp = 0;
 
-    cout << "Enter A Number = "<< endl;
-    cin >> No;
+    cout<< "Enter A Number = " << endl;
+    cin>>No;
 
     Temp = No;
 
